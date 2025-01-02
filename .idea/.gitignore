@@ -1,0 +1,65 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Python 관련
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.whl
+
+# 가상환경 및 패키지 관리
+venv/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+poetry.lock
+
+# IDE 및 에디터 관련
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+
+# 테스트 및 빌드 파일
+htmlcov/
+.coverage
+*.cover
+*.pycover
+*.pytest_cache/
+*.tox/
+dist/
+build/
+*.egg-info/
+MANIFEST
+
+# 환경 변수 및 설정
+.env
+.env.local
+*.secret
+
+# 로그 및 임시 파일
+*.log
+*.tmp
+*.bak
+*.swp
+
+# 데이터 및 결과 파일
+*.sqlite3
+*.db
+*.h5
+.DS_Store
+
+# 기타
+*.bak
+*.orig
+*.lock
